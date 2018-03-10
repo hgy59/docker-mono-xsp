@@ -11,5 +11,5 @@ Simply map the port 80 to the port you want to use and share your published
 application to the /app folder.
 
 ```
-docker run -p 8080:80 -v <path to my web app>:/app hpgy/mono-xsp
+docker run -p 8080:80 -v <path to my web app>:/app hpgy/mono-xsp4
 ```
