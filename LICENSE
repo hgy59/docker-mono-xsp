@@ -1,3 +1,9 @@
+In general, the runtime and its class libraries are licensed under the terms 
+of the MIT license, and some third party code is licensed under the 3-clause 
+BSD license. 
+See the file "PATENTS.TXT" for Microsoft's patent grant on the Mono codebase.
+
+
 MIT License
 
 Copyright (c) 2018 Hanspeter Gysin
