@@ -3,7 +3,7 @@ FROM debian:stretch-slim
 # Mono runtime
 MAINTAINER Hanspeter Gysin <hpgy59@gmail.com>
 
-ENV MONO_VERSION 5.10.0.140
+ENV MONO_VERSION 5.10.0.160
 
 RUN apt-get update && apt-get install -y gnupg \
   && apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF \
